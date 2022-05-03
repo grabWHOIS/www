@@ -1,6 +1,7 @@
 # www.grabwhois.com
 
 
+
 The Idea is to bring open solutions to check the public and private infrastructure
 
 ## Input Bulk formats
@@ -38,6 +39,8 @@ local working "grab whois Agent" can change even IP of your router, supported:
 
 + [Domain Whois Search - Whois lookup - GetWhois.com](http://getwhois.com/)
 + [getWHOIS](https://getwhois.io/softreck.com#)
+
+Get 500 free API credits. No credit card required.
 
 Is there an API to grab Whois data based off of a given filter for geographical location?
 
