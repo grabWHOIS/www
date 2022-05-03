@@ -26,3 +26,7 @@ grab whois is working such agent in different environment and languages:
 local working "grab whois Agent" can change even IP of your router, supported:
 + fritzbox
 
+
+## Another Solutions
+
++ [Domain Whois Search - Whois lookup - GetWhois.com](http://getwhois.com/)
