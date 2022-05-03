@@ -30,3 +30,4 @@ local working "grab whois Agent" can change even IP of your router, supported:
 ## Another Solutions
 
 + [Domain Whois Search - Whois lookup - GetWhois.com](http://getwhois.com/)
++ [getWHOIS](https://getwhois.io/softreck.com#)
