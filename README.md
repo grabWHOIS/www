@@ -3,6 +3,13 @@
 
 The Idea is to bring open solutions to check the public and private infrastructure
 
+## Input Bulk formats
+
++ CSV
++ JSON
++ TXT
+
+
 ## Output formats
 
 grab whois bash scripts are bringing WHOIS data to such formats:
