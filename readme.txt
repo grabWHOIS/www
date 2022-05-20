@@ -1,0 +1,12 @@
+./DOCS/MENU.md
+./DOCS/ABOUT.md
+./DOCS/STATUSY_NASK.md
+./DOCS/BLOKADA.md
+./DOCS/STRATEGY.md
+./DOCS/INSTALL.md
+./DOCS/START.md
+./DOCS/EXAMPLES.md
+../../censura-pl/www/DOCS/DOCS.md
+./DOCS/TODO.md
+./DOCS/STATUSY.md
+./DOCS/FOOT.md
