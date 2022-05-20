@@ -1,5 +1,5 @@
 
-## TOOLS [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/grabWHOIS/www/edit/main/DOCS/TOOLS.md)
+## Narzędzia [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/grabWHOIS/www/edit/main/DOCS/TOOLS.md)
 
 ### WHOIS
 
@@ -43,7 +43,6 @@ and won't recover information about domains that get little or no queries.
 
 + [Learn more about the team behind PerfOps](https://perfops.net/about-us)
 + [CDNPerf - CDN Benchmark - Worldwide multiple locations ping tool](https://www.cdnperf.com/tools/cdn-latency-benchmark)
-+ [CDNPerf - CDN Performance and Uptime monitoring, comparison and analytics - RUM data](https://www.cdnperf.com/#!performance,Africa,2022-03-01)
 + [CDNPerf - CDN Performance and Uptime monitoring, comparison and analytics - RUM data](https://www.cdnperf.com/)
 + [Network tests and benchmarks on-demand](https://perfops.net/network-tests-on-demand)
 + [Raw Logs of CDN and DNS benchmarks](https://perfops.net/raw-logs)
